@@ -1,4 +1,5 @@
 # Hermes
+
 Official implementation for "Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation"
 
 ### Installation
@@ -13,5 +14,3 @@ Official implementation for "Streamlining Data Transfer in Collaborative SLAM th
 ### More Information
 
 This code includes only the agent-side components of the paper, specifically KeyFrame Designation and Map Distillation. Due to the strong dependencies on communication protocols and hardware, we are currently refining this part of the code to ensure easier deployment across different machines. Additionally, we are working on streamlining the entire project to enhance code readability. We plan to release the full codebase along with detailed documentation by April, 2025.
-=======
-Official implementation for "Streamlining Data Transfer in Collaborative SLAM through Bandwidth-aware Map Distillation"
